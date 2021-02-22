@@ -1,0 +1,8 @@
+html, body{
+    height: 100%;
+}
+
+#personal-page-container{
+    background-color: white;
+    border-radius: 5px;
+}
